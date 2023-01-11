@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&vCenter=true&multiline=true&width=435&height=150&lines=Hi+there!;It's+me%2C;GarytheNoob!)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2300&vCenter=true&multiline=true&width=435&height=150&lines=Hi+there!;It's+me%2C;GarytheNoob!)
 
 - 👋 Welcome to my profile!
 - 🎮 I don't play many games - only a few including *Minecraft*, *Genshin Impact* and *Apex Legends*. You can recommend some games you like to me!
