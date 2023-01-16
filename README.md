@@ -9,3 +9,7 @@
 GarytheNoob/GarytheNoob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+### Friends' Profile
+[![](https://img.shields.io/badge/GitHub%20User-66Leo66-blue?style=flat-square&logo=GitHub)](https://github.com/66Leo66)
