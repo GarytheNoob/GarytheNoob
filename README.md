@@ -25,7 +25,7 @@
 
 ## Nagging | 唠叨一下
 
-Actually I don't think I am a **Geek** or something for now because I ain't good at anything related! I'm just a little interested in programming and want to create something that meets my need and really helps me. I actually learnt a lot in GitHub - such a warm and inclusive community. So this account will witness my growth.
+Actually I don't think I am a **Geek** or something for now because I ain't good at anything related! I'm just a little interested in programming and want to create something that meets my need and really helps me. I actually learnt a lot in GitHub - such a warm and inclusive community. Hoping that this account will witness my growth.
 
 本身不觉得自己是个极客，因为很多东西我都不擅长——我只是对编程感兴趣，想做出一些能帮到自己的小东西而已。在GitHub这个温暖的大家庭里我确实学到了很多，这个账户也会见证我的成长吧（好肉麻啊呜呜呜）。
 
