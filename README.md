@@ -1,4 +1,14 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&multiline=true&width=435&height=100&lines=Hi+there!;It's+me%2C;GarytheNoob!)
+```
+   ___               _   _        _  _          _    
+  / __|__ _ _ _ _  _| |_| |_  ___| \| |___  ___| |__ 
+ | (_ / _` | '_| || |  _| ' \/ -_) .` / _ \/ _ \ '_ \
+  \___\__,_|_|  \_, |\__|_||_\___|_|\_\___/\___/_.__/
+                |__/                                                    
+```
+
+[![](https://img.shields.io/badge/GitHub-GarytheNoob-blue?style=flat-square&logo=GitHub)](https://github.com/GarytheNoob)
+[![](https://img.shields.io/badge/Email-outlook.com-blue?style=flat-square&logo=microsoftoutlook)](mailto:garythenoob@outlook.com)
+[![](https://img.shields.io/github/stars/garythenoob?affiliations=OWNER&logo=github&style=flat-square)](https://github.com/GarytheNoob)
 
 ## Introduction | 简介
 - 👋 Welcome to my profile. I am now a student in Senior High(A.K.A. "High School"etc., I guess?) in Shenzhen.
@@ -22,14 +32,6 @@
 - 🌏 Though I often get the highest score in English exams, I'm yet not very confident in my English level. So when contacting me, please use Chinese if you can! Thanks!
 
      不管是因为啥，联系的时候能说中文尽量中文吧。对自己的英语水平感到不自信（悲）。
-
-## Nagging | 唠叨一下
-
-Actually I don't think I am a **Geek** or something for now because I ain't good at anything related! I'm just a little interested in programming and want to create something that meets my need and really helps me. I actually learnt a lot in GitHub - such a warm and inclusive community. Hoping that this account will witness my growth.
-
-本身不觉得自己是个极客，因为很多东西我都不擅长——我只是对编程感兴趣，想做出一些能帮到自己的小东西而已。在GitHub这个温暖的大家庭里我确实学到了很多，这个账户也会见证我的成长吧（好肉麻啊呜呜呜）。
-
-&emsp;
 
 ### Friends' Profile | 贴点友链
 [![](https://img.shields.io/badge/GitHub%20-66Leo66-blue?style=flat-square&logo=GitHub)](https://github.com/66Leo66)
