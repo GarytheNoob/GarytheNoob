@@ -17,7 +17,7 @@
 
 &emsp;
 
-- ⚙️ I have some coding experience in the languages of C++ , Python. But actually I ain't an expert in those stuff. I'm **only a *NOOB***.
+- ⚙️ I have some coding experience in the languages of C++ and Python. But actually I ain't an expert in those stuff. I'm **only a *NOOB***.
 
      我曾经学过一些C++和Python。但是似乎没有完全学明白（和那些OIer们差的不是一点半点）正如用户名所言，我**只是个菜鸟**。
      
