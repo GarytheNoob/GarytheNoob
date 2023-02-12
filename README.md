@@ -50,7 +50,7 @@ Devices:
 
 - 🌏 Though I often get the highest score in English exams, I'm yet not very confident in my English level. So when contacting me, please use Chinese if you can! Thanks!
 
-     不管是因为啥，联系的时候能说中文尽量中文吧。对自己的英语水平感到不自信（悲）。
+     不管是因为啥，联系的时候能说中文尽量中文吧。对自己的英语水平感到不自信（悲）。另外，本人自认为理解**标准汉语（普通话）**，如果你发现我无法理解，请换一种说法或者少说抽象话。
 
 ### Friends' Profile | 贴点友链
 [![](https://img.shields.io/badge/GitHub%20-66Leo66-blue?style=flat-square&logo=GitHub)](https://github.com/66Leo66)
