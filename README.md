@@ -6,12 +6,30 @@
                 |__/                                                    
 ```
 
+Basis:
+
 [![](https://img.shields.io/badge/GitHub-GarytheNoob-blue?style=flat-square&logo=GitHub)](https://github.com/GarytheNoob)
 [![](https://img.shields.io/badge/Email-outlook.com-blue?style=flat-square&logo=microsoftoutlook)](mailto:garythenoob@outlook.com)
 [![](https://img.shields.io/github/stars/garythenoob?affiliations=OWNER&logo=github&style=flat-square)](https://github.com/GarytheNoob)
 
+OS:
+
+![](https://img.shields.io/badge/Windows-11-0078d4?style=flat&logo=windows11)
+![](https://img.shields.io/badge/Manjaro-Plasma-34be5b?style=flat-square&logo=manjaro&logoColor=white)
+
+Environments:
+
+![](https://img.shields.io/badge/Editor-VS_Code-007ACC?style=flat-square&logo=visualstudiocode)
+![](https://img.shields.io/badge/Terminal-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+
+Devices:
+
+![](https://img.shields.io/badge/Dell-G15_9920-007DB8?style=flat-square&logo=dell)
+![](https://img.shields.io/badge/Redmi-K50_Pro-FF6900?style=flat-square&logo=xiaomi&logoColor=white)
+![](https://img.shields.io/badge/iPad-Air_4-white?style=flat-square&logo=apple&logoColor=white)
+
 ## Introduction | 简介
-- 👋 Welcome to my profile. I am now a student in Senior High(A.K.A. "High School"etc., I guess?) in Shenzhen.
+- 👋 Welcome to my profile. I am now a Senior High student in [Shenzhen](https://www.google.com/maps/place/Shenzhen "Yeah the place where fake phones are made and all lost iPhones goes to").
 
      欢迎来到我的个人资料页！我现在是一名~~苦逼~~普通深圳高中生。
 
