@@ -11,6 +11,7 @@ Basis:
 [![](https://img.shields.io/badge/GitHub-GarytheNoob-blue?style=flat-square&logo=GitHub)](https://github.com/GarytheNoob)
 [![](https://img.shields.io/badge/Email-outlook.com-blue?style=flat-square&logo=microsoftoutlook)](mailto:garythenoob@outlook.com)
 [![](https://img.shields.io/github/stars/garythenoob?affiliations=OWNER&logo=github&style=flat-square)](https://github.com/GarytheNoob)
+![](https://img.shields.io/website?down_color=lightgrey&down_message=Broken&label=My%20Blog&logo=github&up_color=brightgreen&up_message=Online&url=https%3A%2F%2Fgarythenoob.github.io)
 
 OS:
 
