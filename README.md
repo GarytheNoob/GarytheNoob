@@ -54,3 +54,6 @@ Devices:
 
 ### Friends' Profile | 贴点友链
 [![](https://img.shields.io/badge/GitHub%20-66Leo66-blue?style=flat-square&logo=GitHub)](https://github.com/66Leo66)
+
+### Misc | 杂项
+Pronouns: He/Him
