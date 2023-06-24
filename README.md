@@ -17,17 +17,22 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GarytheNoob&theme=tokyonight&utcOffset=8) 
 
 
-OS:
+#### OS:
 
 ![](https://img.shields.io/badge/Windows-11-0078d4?style=flat&logo=windows11)
-![](https://img.shields.io/badge/Manjaro-Plasma-34be5b?style=flat-square&logo=manjaro&logoColor=white)
-
-Environments:
 
 ![](https://img.shields.io/badge/Editor-VS_Code-007ACC?style=flat-square&logo=visualstudiocode)
-![](https://img.shields.io/badge/Terminal-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![](https://img.shields.io/badge/Terminal-Windows_Terminal-4d4d4d?style=flat-square&logo=windowsterminal&logoColor=white)
 
-Devices:
+---
+
+![](https://img.shields.io/badge/Linux-Arch-1793d1?style=flat-square&logo=archlinux&logoColor=white)
+
+![](https://img.shields.io/badge/Editor-NeoVim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![](https://img.shields.io/badge/Windows_Manager-dwm-1177aa?style=flat-square&logo=dwm&logoColor=white)
+![](https://img.shields.io/badge/Terminal-Alacritty-F46D01?style=flat-square&logo=alacritty&logoColor=white)
+
+#### Devices:
 
 ![](https://img.shields.io/badge/Dell-G15_9920-007DB8?style=flat-square&logo=dell)
 ![](https://img.shields.io/badge/Redmi-K50_Pro-FF6900?style=flat-square&logo=xiaomi&logoColor=white)
