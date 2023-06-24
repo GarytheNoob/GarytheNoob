@@ -22,7 +22,9 @@
 ![](https://img.shields.io/badge/Windows-11-0078d4?style=flat&logo=windows11)
 
 ![](https://img.shields.io/badge/Editor-VS_Code-007ACC?style=flat-square&logo=visualstudiocode)
+![](https://img.shields.io/badge/Shell-Powershell-5391fe?style=flat-square&logo=powershell&logoColor=white)
 ![](https://img.shields.io/badge/Terminal-Windows_Terminal-4d4d4d?style=flat-square&logo=windowsterminal&logoColor=white)
+![](https://img.shields.io/badge/Terminal-WezTerm-7e56c2?style=flat-square)
 
 ---
 
@@ -30,6 +32,8 @@
 
 ![](https://img.shields.io/badge/Editor-NeoVim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![](https://img.shields.io/badge/Windows_Manager-dwm-1177aa?style=flat-square&logo=dwm&logoColor=white)
+![](https://img.shields.io/badge/Shell-ZSH-f15a24?style=flat-square)
+![](https://img.shields.io/badge/Terminal-st-1177AA?style=flat-square&logo=suckless&logoColor=white)
 ![](https://img.shields.io/badge/Terminal-Alacritty-F46D01?style=flat-square&logo=alacritty&logoColor=white)
 
 #### Devices:
