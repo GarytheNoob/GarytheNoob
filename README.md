@@ -11,10 +11,10 @@
 [![](https://img.shields.io/github/stars/garythenoob?affiliations=OWNER&logo=github&style=flat-square)](https://github.com/GarytheNoob)
 [![](https://img.shields.io/website?down_color=lightgrey&down_message=Broken&label=My%20Blog&logo=github&up_color=brightgreen&up_message=Online&url=https%3A%2F%2Fgarythenoob.github.io&style=flat-square)](https://garythenoob.github.io)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GarytheNoob&theme=tokyonight) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GarytheNoob&theme=onedark) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GarytheNoob&theme=tokyonight) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GarytheNoob&theme=tokyonight&utcOffset=8) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GarytheNoob&theme=onedark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GarytheNoob&theme=onedark&utcOffset=8) 
 
 
 #### OS:
