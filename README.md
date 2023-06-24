@@ -30,10 +30,10 @@
 
 ![](https://img.shields.io/badge/Linux-Arch-1793d1?style=flat-square&logo=archlinux&logoColor=white)
 
-![](https://img.shields.io/badge/Editor-NeoVim-57A143?style=flat-square&logo=neovim&logoColor=white)
-![](https://img.shields.io/badge/Windows_Manager-dwm-1177aa?style=flat-square&logo=dwm&logoColor=white)
+[![](https://img.shields.io/badge/Editor-NeoVim-57A143?style=flat-square&logo=neovim&logoColor=white)](https://github.com/garythenoob/nvim-profile)
+[![](https://img.shields.io/badge/Windows_Manager-dwm-1177aa?style=flat-square&logo=dwm&logoColor=white)](https://github.com/garythenoob/dwm-profile)
 ![](https://img.shields.io/badge/Shell-ZSH-f15a24?style=flat-square)
-![](https://img.shields.io/badge/Terminal-st-1177AA?style=flat-square&logo=suckless&logoColor=white)
+[![](https://img.shields.io/badge/Terminal-st-1177AA?style=flat-square&logo=suckless&logoColor=white)](https://github.com/garythenoob/st-profile)
 ![](https://img.shields.io/badge/Terminal-Alacritty-F46D01?style=flat-square&logo=alacritty&logoColor=white)
 
 #### Devices:
