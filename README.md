@@ -28,7 +28,7 @@
 
 ---
 
-![](https://img.shields.io/badge/Linux-Arch-1793d1?style=flat-square&logo=archlinux&logoColor=white)
+![](https://img.shields.io/badge/Linux-Arch-1793d1?style=flat&logo=archlinux&logoColor=white)
 
 [![](https://img.shields.io/badge/Editor-NeoVim-57A143?style=flat-square&logo=neovim&logoColor=white)](https://github.com/garythenoob/nvim-profile)
 [![](https://img.shields.io/badge/Windows_Manager-dwm-1177aa?style=flat-square&logo=dwm&logoColor=white)](https://github.com/garythenoob/dwm-profile)
