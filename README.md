@@ -52,13 +52,13 @@
 
 - 📫 You can reach me via Telegram [@GarytheNoob](https://t.me/garythenoob) or Email! But please forgive me for not answering in time.
 
-     你可以通过Telegram [@GarytheNoob](https://t.me/garythenoob) 联系我！也可以发邮件，但是我不一定回（逃）（也没啥需要联系我的吧🤔）。
+     您可以通过Telegram [@GarytheNoob](https://t.me/garythenoob) 联系我！也可以发邮件，但是我不一定回（逃）（也没啥需要联系我的吧🤔）。
      
 &emsp;
 
-- 🌏 Though I often get the highest score in English exams, I'm yet not very confident in my English level. So when contacting me, please use Chinese if you can! Thanks!
+- 🌏 I do speak English and have little difficulty in communicating in the language, but it makes me happy that someone talks to me in Chinese. Feel free to contact me in both languages!
 
-     不管是因为啥，联系的时候能说中文尽量中文吧。对自己的英语水平感到不自信（悲）。另外，本人自认为理解**标准汉语（普通话）**，如果你发现我无法理解，请换一种说法或者少说抽象话。
+     我接受中文/英文的交流，自认为没有沟通障碍。您可以随意选择！
 
 ### Friends' Profile | 贴点友链
 [![](https://img.shields.io/badge/GitHub%20-66Leo66-blue?style=flat-square&logo=GitHub)](https://github.com/66Leo66)
