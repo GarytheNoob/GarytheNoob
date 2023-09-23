@@ -1,11 +1,11 @@
 ```
 
-                                      ____                  _   _          _   _             _     
-                                     / ___| __ _ _ __ _   _| |_| |__   ___| \ | | ___   ___ | |__  
-                                    | |  _ / _` | '__| | | | __| '_ \ / _ \  \| |/ _ \ / _ \| '_ \ 
-                                    | |_| | (_| | |  | |_| | |_| | | |  __/ |\  | (_) | (_) | |_) |
-                                     \____|\__,_|_|   \__, |\__|_| |_|\___|_| \_|\___/ \___/|_.__/ 
-                                                      |___/                                        
+                                ____                  _   _          _   _             _     
+                               / ___| __ _ _ __ _   _| |_| |__   ___| \ | | ___   ___ | |__  
+                              | |  _ / _` | '__| | | | __| '_ \ / _ \  \| |/ _ \ / _ \| '_ \ 
+                              | |_| | (_| | |  | |_| | |_| | | |  __/ |\  | (_) | (_) | |_) |
+                               \____|\__,_|_|   \__, |\__|_| |_|\___|_| \_|\___/ \___/|_.__/ 
+                                                |___/                                        
 
 ```
 
@@ -25,7 +25,7 @@
 ![](https://img.shields.io/badge/Linux-Arch-1793d1?style=flat&logo=archlinux&logoColor=white)
 
 [![](https://img.shields.io/badge/Editor-NeoVim-57A143?style=flat-square&logo=neovim&logoColor=white)](https://github.com/garythenoob/nvim-profile)
-[![](https://img.shields.io/badge/Windows_Manager-dwm-1177aa?style=flat-square&logo=dwm&logoColor=white)](https://github.com/garythenoob/dwm-profile)
+[![](https://img.shields.io/badge/Windows_Manager-bspwm-2e2e2e?style=flat-square&logo=bspwm&logoColor=white)](https://github.com/garythenoob/dwm-profile)
 ![](https://img.shields.io/badge/Desktop_Environment-KDE_Plasma-1d99f3?style=flat-square&logo=kde&logoColor=white)
 ![](https://img.shields.io/badge/Shell-ZSH-f15a24?style=flat-square)
 [![](https://img.shields.io/badge/Terminal-st-1177AA?style=flat-square&logo=suckless&logoColor=white)](https://github.com/garythenoob/st-profile)
