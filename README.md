@@ -28,7 +28,7 @@
 |-|-|
 |![](https://img.shields.io/badge/Linux-Arch-1793d1?style=flat&logo=archlinux&logoColor=white) [![](https://img.shields.io/badge/Editor-NeoVim-57A143?style=flat-square&logo=neovim&logoColor=white)](https://github.com/garythenoob/nvim-profile) [![](https://img.shields.io/badge/Windows_Manager-bspwm-2e2e2e?style=flat-square&logo=bspwm&logoColor=white)](https://github.com/garythenoob/dwm-profile) ![](https://img.shields.io/badge/Desktop_Environment-KDE_Plasma-1d99f3?style=flat-square&logo=kde&logoColor=white) ![](https://img.shields.io/badge/Shell-ZSH-f15a24?style=flat-square) [![](https://img.shields.io/badge/Terminal-st-1177AA?style=flat-square&logo=suckless&logoColor=white)](https://github.com/garythenoob/st-profile) ![](https://img.shields.io/badge/Terminal-Alacritty-F46D01?style=flat-square&logo=alacritty&logoColor=white)| ![](https://img.shields.io/badge/Dell-G15_9920-007DB8?style=flat-square&logo=dell) ![](https://img.shields.io/badge/Redmi-K50_Pro-FF6900?style=flat-square&logo=xiaomi&logoColor=white) ![](https://img.shields.io/badge/iPad-Air_4-white?style=flat-square&logo=apple&logoColor=white)|
 
-<h4 align="center">I speak Chinese(Mandarin) and English.</b>    
+<h4 align="center">I speak Chinese(Mandarin) and English.</h4>    
 <p align="center">I also know limited numbers of words & phrases in Japanese, and can speak some Cantonese.</p>
 
 <details><summary><b>Friends' Profile | 贴点友链</b></summary>
