@@ -14,14 +14,39 @@
 </div>
 
 <div align="center">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GarytheNoob&theme=onedark) 
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GarytheNoob/profile-summary-cards/master/profile-summary-card-output/onedark/0-profile-details.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GarytheNoob/profile-summary-cards/master/profile-summary-card-output/graywhite/0-profile-details.svg">
+        <img alt="Shows profile details in different color schemes." src="https://raw.githubusercontent.com/GarytheNoob/profile-summary-cards/master/profile-summary-card-output/onedark/0-profile-details.svg">
+    </picture>
 </div>
 
 <div align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GarytheNoob/profile-summary-cards/master/profile-summary-card-output/onedark/1-repos-per-language.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GarytheNoob/profile-summary-cards/master/profile-summary-card-output/graywhite/1-repos-per-language.svg">
+        <img alt="Shows the number of repositories per language in different color schemes." src="https://raw.githubusercontent.com/GarytheNoob/profile-summary-cards/master/profile-summary-card-output/onedark/1-repos-per-language.svg">
+    </picture>
+    &hairsp;&hairsp;&hairsp;&hairsp;&hairsp;&hairsp;
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GarytheNoob/profile-summary-cards/master/profile-summary-card-output/onedark/2-most-commit-language.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GarytheNoob/profile-summary-cards/master/profile-summary-card-output/graywhite/2-most-commit-language.svg">
+        <img alt="Shows the most committed language in different color schemes." src="https://raw.githubusercontent.com/GarytheNoob/profile-summary-cards/master/profile-summary-card-output/onedark/2-most-commit-language.svg">
+    </picture>
+</div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GarytheNoob&theme=onedark) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GarytheNoob&theme=onedark&utcOffset=8) 
+<div align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GarytheNoob/profile-summary-cards/master/profile-summary-card-output/onedark/3-stats.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GarytheNoob/profile-summary-cards/master/profile-summary-card-output/graywhite/3-stats.svg">
+        <img alt="Shows the number of repositories per language in different color schemes." src="https://raw.githubusercontent.com/GarytheNoob/profile-summary-cards/master/profile-summary-card-output/onedark/3-stats.svg">
+    </picture>
+    &hairsp;&hairsp;&hairsp;&hairsp;&hairsp;&hairsp;
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GarytheNoob/profile-summary-cards/master/profile-summary-card-output/onedark/4-productive-time.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GarytheNoob/profile-summary-cards/master/profile-summary-card-output/graywhite/4-productive-time.svg">
+        <img alt="Shows the most committed language in different color schemes." src="https://raw.githubusercontent.com/GarytheNoob/profile-summary-cards/master/profile-summary-card-output/onedark/4-productive-time.svg">
+    </picture>
 </div>
 
 |OS|Devices|
