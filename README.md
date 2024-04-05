@@ -1,8 +1,7 @@
 
 <h2 align="center"><i>- Esto sapiens -</i></h2>
 <h1 align="center">GarytheNoob</h1>
-<h3 align="center">An enthusiast in CS & Tech, language & linguistics, certain animes, morse code, 
-    speedcubing, and more!</h4>
+<h3 align="center">A Hardcore Learner, and a Noob</h4>
 <p align="center"><b>Currently a senior high student in Shenzhen, China</b></p>
 
 <div align="center">
