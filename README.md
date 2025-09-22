@@ -1,8 +1,7 @@
 
-<h2 align="center"><i>- Esto sapiens -</i></h2>
 <h1 align="center">GarytheNoob</h1>
-<h3 align="center">A Hardcore Learner, and a Noob</h4>
-<p align="center"><b>Currently a senior high student in Shenzhen, China</b></p>
+<h3 align="center">A Noob Intrested in Random Stuff</h4>
+<p align="center"><b>被二偶害了</b></p>
 
 <div align="center">
 
