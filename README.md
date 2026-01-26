@@ -1,7 +1,5 @@
 
 <h1 align="center">GarytheNoob</h1>
-<h3 align="center">A Noob Intrested in Random Stuff</h4>
-<p align="center"><b>被二偶害了</b></p>
 
 <div align="center">
 
