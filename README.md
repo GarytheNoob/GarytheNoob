@@ -8,7 +8,7 @@
 [![](https://img.shields.io/badge/GitHub-GarytheNoob-blue?style=flat-square&logo=GitHub)](https://github.com/GarytheNoob)
 [![](https://img.shields.io/badge/Email-outlook.com-blue?style=flat-square&logo=microsoftoutlook)](mailto:garythenoob@outlook.com)
 [![](https://img.shields.io/github/stars/garythenoob?affiliations=OWNER&logo=github&style=flat-square)](https://github.com/GarytheNoob)
-[![](https://img.shields.io/website?down_color=lightgrey&down_message=Broken&label=My%20Blog&logo=hexo&logoColor=white&up_color=brightgreen&up_message=Online&url=https%3A%2F%2Fgarythenoob.github.io&style=flat-square)](https://garythenoob.github.io)
+<!-- [![](https://img.shields.io/website?down_color=lightgrey&down_message=Broken&label=My%20Blog&logo=hexo&logoColor=white&up_color=brightgreen&up_message=Online&url=https%3A%2F%2Fgarythenoob.github.io&style=flat-square)](https://garythenoob.github.io) -->
 </div>
 
 <div align="center">
@@ -47,9 +47,11 @@
     </picture>
 </div>
 
+<!--
 |OS|Devices|
 |-|-|
 |![](https://img.shields.io/badge/Linux-Arch-1793d1?style=flat&logo=archlinux&logoColor=white) [![](https://img.shields.io/badge/Editor-NeoVim-57A143?style=flat-square&logo=neovim&logoColor=white)](https://github.com/garythenoob/nvim-profile) [![](https://img.shields.io/badge/Windows_Manager-bspwm-2e2e2e?style=flat-square&logo=bspwm&logoColor=white)](https://github.com/garythenoob/dwm-profile) ![](https://img.shields.io/badge/Desktop_Environment-KDE_Plasma-1d99f3?style=flat-square&logo=kde&logoColor=white) ![](https://img.shields.io/badge/Shell-ZSH-f15a24?style=flat-square) [![](https://img.shields.io/badge/Terminal-st-1177AA?style=flat-square&logo=suckless&logoColor=white)](https://github.com/garythenoob/st-profile) ![](https://img.shields.io/badge/Terminal-Alacritty-F46D01?style=flat-square&logo=alacritty&logoColor=white)| ![](https://img.shields.io/badge/Dell-G15_9920-007DB8?style=flat-square&logo=dell) ![](https://img.shields.io/badge/Redmi-K50_Pro-FF6900?style=flat-square&logo=xiaomi&logoColor=white) ![](https://img.shields.io/badge/iPad-Air_4-white?style=flat-square&logo=apple&logoColor=white)|
+ -->
 
 <h4 align="center">I speak Chinese(Mandarin) and English.</h4>    
 <p align="center">I also know limited numbers of words & phrases in Japanese, and can speak some Cantonese.</p>
